@@ -2,6 +2,7 @@
 using std::cout;
 using std::cin;
 int main(){
+	//вводится целое чило. Проверить, является ли оно симметричным//
 	int a, a1, a2=0;
 	cin >> a; 
 	a1 = a;
