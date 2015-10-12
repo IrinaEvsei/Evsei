@@ -2,6 +2,7 @@
 using std::cout;
 using std::cin;
 int main(){
+	//вводится целое число. Найти сумму этого числа до первого встречного нуля//
 	int a,b=0;
 	cin >> a;
 	int a2 = 0;
